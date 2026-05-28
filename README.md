@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src=<iframe src="https://assets.pinterest.com/ext/embed.html?id=692991461458103828" height="295" width="345" frameborder="0" scrolling="no" ></iframe>>
 
-<!--
-**larimascoti-ops/larimascoti-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&size=35&lines=+Oii />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Lari Mascoti
+---
+**atualmente cursando Desenvolvimento de Sistemas na ETEC Vasco Antonio Venchiarutti**
+<p>Focado em aumentar meu conhecimento e habilidades em programação, sempre que possivel aumentando meu conhecimento na area e buscando cada vez aprender mais.</p>
+
+
+## GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin645757hfh&theme=tokyonight" 
+    height="180"
+  />
+</p>
