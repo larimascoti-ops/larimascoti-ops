@@ -1,4 +1,5 @@
-<img width="498" height="278" alt="flowers-anime" src="https://github.com/user-attachments/assets/0e46d05d-17bb-4f88-8161-c66364967303" />
+<img width="640" height="358" alt="flowers-anime (1)" src="https://github.com/user-attachments/assets/94a2b13b-596e-4e7d-93eb-86eed3bb6300" />
+
 
 ---
 
