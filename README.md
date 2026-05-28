@@ -1,22 +1,10 @@
-<img src=<iframe src="https://assets.pinterest.com/ext/embed.html?id=692991461458103828" height="295" width="345" frameborder="0" scrolling="no" ></iframe>>
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&size=35&lines=+Oii />
+<img width="498" height="278" alt="flowers-anime" src="https://github.com/user-attachments/assets/0e46d05d-17bb-4f88-8161-c66364967303" />
 
 ---
 
 ## Lari Mascoti
 ---
-**atualmente cursando Desenvolvimento de Sistemas na ETEC Vasco Antonio Venchiarutti**
-<p>Focado em aumentar meu conhecimento e habilidades em programação, sempre que possivel aumentando meu conhecimento na area e buscando cada vez aprender mais.</p>
+**ETEC Vasco Antonio Venchiarutti- Desenvolvimento de Sistemas**
+<p>Imersa em aprimorar minhas habilidades em programação e manter uma rotina de aprendizado contínuo, absorvendo o máximo de conhecimento para criar soluções eficientes.</p>
 
 
-## GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin645757hfh&theme=tokyonight" 
-    height="180"
-  />
-</p>
