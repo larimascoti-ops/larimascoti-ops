@@ -8,6 +8,6 @@
 ## Lari Mascoti
 ---
 **ETEC Vasco Antonio Venchiarutti- Desenvolvimento de Sistemas**
-<p>Imersa em aprimorar minhas habilidades em programação e manter uma rotina de aprendizado contínuo, absorvendo o máximo de conhecimento para criar soluções eficientes.</p>
+<p>oi</p>
 
 
